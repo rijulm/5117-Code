@@ -1,0 +1,8 @@
+/* css file with adding different colours and     */
+
+/* set the headings to be read, font size 15 and bold */
+title {
+    color: #000000;
+    font-size: 150px;
+    font-weight: bold;
+}
