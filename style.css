@@ -1,8 +1,12 @@
 /* css file with adding different colours and     */
+h1 {
+     color: #284B06;
+     font-size: 15px;
+     font-weight: bold;
+ }
 
-/* set the headings to be read, font size 15 and bold */
-title {
+p {
     color: #000000;
-    font-size: 150px;
+    font-size: 20px;
     font-weight: bold;
 }
