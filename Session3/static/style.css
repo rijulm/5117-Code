@@ -1,3 +1,17 @@
+/* css file with adding different colours and     */
+h1 {
+     color: #000000;
+     font-size: 35px;
+     font-weight: bold;
+ }
+
+p {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* page background colour */
 body {
-     background-color: aqua;
+    background-color: #29ae59;
 }
